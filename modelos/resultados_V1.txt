@@ -1,0 +1,12 @@
+(venv) C:\Users\loia\Desktop\treinamento_modelo>python validation.py
+Avaliando na: cuda
+Total de imagens para a Prova Final: 100
+
+Iniciando a avaliação cega. Por favor, aguarde...
+----------------------------------------
+ RESULTADO FINAL OFICIAL
+----------------------------------------
+Imagens Testadas: 100
+IoU Médio: 0.6696 (66.96%)
+----------------------------------------
+Avaliação: BOM! ✅ O modelo generalizou, mas pode melhorar.
